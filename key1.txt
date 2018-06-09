@@ -1,1 +1,243 @@
-﻿MULTIPLE CHOICE.  Choose the one alternative that best completes the statement or answers the question.1) A heavy stone of mass m is hung from the ceiling by a thin 8.25-g wire that is 65.0 cm long. When you gently pluck the upper end of the wire, a pulse travels down the wire and returns 7.84 ms later, having reflected off the lower end. The stone is heavy enough to prevent the lower end of the wire from moving. What is the mass m of the stone? [The slight variation of tension along the length of wire as a result of the wire's own weight may be ignored.]       1) _____A) 227 kg      B) 349 kg      C) 35.6 kg      D) 8.90 kg      E) 23.1 kg2) You are generating traveling waves on a stretched string by wiggling one end. If you suddenly begin to wiggle more rapidly without appreciably affecting the tension, you will cause the waves to move down the string      2) _____A) faster than before.B) at the same speed as before.C) slower than before.3) A mass M is attached to an ideal massless spring. When this system is set in motion, it has a period T. What is the period if the mass is doubled to 2M?      3) _____A) sqrt(2)T      B) 4T      C) 2T      D) T      E) T/24) A restoring force of magnitude F acts on a system with a displacement of magnitude x. In which of the following cases will the system undergo simple harmonic motion?      4) _____A) F graphic(Miscellaneous:proportionality.jpg) 1/x      B) F graphic(Miscellaneous:proportionality.jpg) x      C) F graphic(Miscellaneous:proportionality.jpg) x2      D) F graphic(Miscellaneous:proportionality.jpg) sin x       E) F graphic(Miscellaneous:proportionality.jpg) sqrt(x)5) If right ray(B) = -2hat(i) - 6hat(j) + 2hat(k) and right ray(C) = -4hat(i) -2hat(j) - 3hat(k), which of the following numbers is closest to the magnitude of right ray(C) × right ray(B)?      5) _____A) 21      B) 29      C) 25      D) 33      E) 176) A long thin uniform rod of length 1.50 m is to be suspended from a frictionless pivot located at some point along the rod so that its pendulum motion takes 3.00 s. How far from the center of the rod should the pivot be located?      6) _____A) 23.4 cm      B) 8.40 cm      C) 7.98 cm      D) 7.52 cm      E) 8.73 cm7) A particle moving in the xy-plane has an acceleration given by a=<20t3, 42x>, where x is the x-coordinate of its position. At t=0, the particle is at rest at the origin. Find the particle's velocity as a function of time      7) _____A) <5t4, 42xt>B) <60t2, 42>C) <5t4, 7t6>D) None of theseE) <5t4, 21x2>8) A proton (a positively charged particle) is moving away from a stationary positive charge. Is the proton gaining or losing potential energy?      8) _____A) gainingB) Neither gaining nor losing, because of conservation of momentum.C) Neither gaining nor losing, because of conservation of energyD) losing9) A uniform solid cylindrical log begins rolling without slipping down a ramp that rises 28.0° above the horizontal. After it has rolled 4.20 m along the ramp, what is the magnitude of the linear acceleration of its center of mass?      9) _____A) 9.80 m/s2      B) 3.07 m/s2      C) 2.30 m/s2      D) 4.60 m/s2      E) 3.29 m/s210) In the figure, a block of mass M hangs at rest. The rope that is fastened to the wall is horizontal and has a tension off 70 N. The rope that is fastened to the ceiling has a tension of 91 N,and makes an angle θ with the ceiling. What is the angle θ?graphic(Chapter 5:P5.73.bmp)      10) _____A) 70°      B) 50°      C) 38°      D) 40°      E) 45°11) During a collision with a wall, the velocity of a 0.200-kg ball changes from 20.0 m/s toward the wall to 12.0 m/s away from the wall. If the time the ball was in contact with the wall was 60.0 ms, what was the magnitude of the average force applied to the ball?      11) _____A) 107 N      B) 40.0 N      C) 13.3 N      D) 16.7 N      E) 26.7 N12) For the (conservative) force F=(yex)i+(ex)j, calculate the work done by this force in moving a particle from (0,0) to (1,6).  All quantities are in SI units. The following integrals are provided for reference but are not necessarily required to solve the  problem:graphic(Miscellaneous:Capture.JPG)      12) _____A) None of theseB) 16.3 JC) 45  JD) 2.71 J E) 120.5 J13) Two loudspeakers placed 6.0 m apart are driven in phase by an audio oscillator whose frequency range is 2351 Hz to 3383 Hz. A point P is located 4.2 m from one loudspeaker and 3.6 m from the other. The speed of sound is 344 m/s. The frequency produced by the oscillator, for which constructive interference of sound occurs at point P, is closest to      13) _____A) 3297 Hz.      B) 2867 Hz.      C) 3010 Hz.      D) 3153 Hz.      E) 2723 Hz.14) A meteoroid, heading straight for Earth, has a speed of 14.8 km/s relative to the center of Earth as it crosses our moon's orbit, a distance of 3.84 × 108 m from the earth's center. What is the meteroid's speed as it hits the earth? You can neglect the effects of the moon, Earth's atmosphere, and any motion of the earth. (G = 6.67 × 10-11 N • m2/kg2, Mearth = 5.97 × 1024 kg, Radius of the earth = 6400km)      14) _____A) 21.5 km/s      B) 87.3 km/s      C) 18.5 km/s      D) 32.4 km/s15) Observer A is 3.0 m from a tiny light bulb and observer B is 12.0 m from the same bulb. Assume that the light spreads out uniformly and undergoes no significant reflections or absorption. If observer B sees a light of intensity I, the light intensity that A sees is      15) _____A) 16I.      B) 36I.      C) 9I.      D) 144I.      E) I.16) Find the speed of an ocean wave whose vertical displacement y as a function of time t is given by y(x,t) = 3.7 cos(2.2x - 5.6t), where all quantities are in SI units.      16) _____A) 4.5 m/s      B) 1.9 m/s      C) 3.5 m/s      D) 2.5 m/s17) If a force always acts perpendicular to an object's direction of motion, that force cannot change the object's kinetic energy.      17) _____A) True      B) False18) A uniform sign is supported against a wall at point P as shown in the figure. If the sign is a square 0.50 m on a side and its mass is 10.0 kg, what is the magnitude of the horizontal force that the wall at P experiences? [Ignore the separation between the sign and the wall]graphic(Chapter 8:P8.74_REV.jpg)      18) _____A) 0.00 N      B) 49 N      C) 200 N      D) 25 N19) An unusual spring is placed on the x axis with its free right end at x=0. When the free end of the spring is moved to position x (i.e. the spring is stretched by an amount x), the spring exerts a force F given by  F = - i (2x+x2) [Newtons] where i is a unit vector along the positive x-direction. A 3.00-kg object is attached to this spring and released from rest after stretching the spring 3.00 m. If the object slides over a frictionless horizontal surface, how fast is it moving when the spring returns to its equilibrium length?      19) _____A) 14.2 m/sB) This is an impossible situation since the final velocity of the mass would be imaginary (square root of a negative number)C) 3.46 m/sD) 10.3 m/sE) 7.41 m/s20) The sound level at 1.0 m from a certain talking person talking is 60 dB. You are surrounded by five such people, all 1.0 m from you and all talking equally loud at the same time. The threshold of hearing is 1.0 × 10-12 W/m2. What sound level are you being exposed to? You can neglect any absorption, reflection, or interference of the sound. The threshold of hearing is 1.0 × 10-12 W/m2.      20) _____A) 81 dB      B) 67 dB      C) 300 dB      D) 60 dB      E) 74 dB21) Tensile stress is      21) _____A) the ratio of the change in length to the original length.B) the strain per unit length.C) the ratio of elastic modulus to strain.D) the same as force.E) the applied force per cross-sectional area.22) A boy on a bicycle approaches a brick wall as he sounds his horn at a frequency 400.00 Hz. The sound he hears reflected back from the wall is at a frequency 408.00 Hz. At what is the speed is the boy riding his bicycle toward the wall? Assume the speed of sound in air is 340 m/s.      22) _____A) 333 m/s      B) 3.68 m/s      C) 3.37 m/s      D) 6.67 m/s      E) 6.80 m/s23) A dumbbell-shaped object is composed by two equal masses, m, connected by a rod of negligible mass and length r. If I1 is the moment of inertia of this object with respect to an axis passing through the center of the rod and perpendicular to it and I2 is the moment of inertia with respect to an axis passing through one of the masses, how are the two moments of inertia related?      23) _____A) I2 > I1.B) I1 = I2.C) The answer depends on mD) I1 > I2.E) The answer depends on both m and r24) Two teams of 9 members each engage in a tug-of-war. Each of the first team’s members has an average mass of 64 kg and exerts an average force of 1450 N horizontally. Each of the second team’s members has an average mass of 72 kg and exerts and average force of 1470 N horizontally. Find the tension in the rope (in N).       24) _____A) 2920      B) 13135      C) 20      D) 26280      E) 1223525) A 1.2-kg spring-activated toy bomb slides on a smooth surface along the x-axis with a speed of 0.50 m/s. At the origin 0, the bomb explodes into two fragments. Fragment 1 has a mass of 0.40 kg and a speed of 0.90 m/s along the negative y-axis. In the figure, the angle θ, made by the velocity vector of fragment 2 and the x-axis, is closest tographic(Chapter 7:P7.29_REV.jpg)      25) _____A) 31°.      B) 38°.      C) 53°.      D) 59°.      E) 37°.26) What version is this test?      26) _____A)      B)      C)      D)1) C2) B3) A4) B5) D6) E7) C8) D9) B10) D11) A12) B13) B14) C15) A16) D17) A18) B19) C20) B21) E22) C23) A24) B25) A26) B
+﻿
+MULTIPLE CHOICE.  Choose the one alternative that best completes the statement or answers the question.
+Points: 1
+1) A heavy stone of mass m is hung from the ceiling by a thin 8.25-g wire that is 65.0 cm long. When you gently pluck the upper end of the wire, a pulse travels down the wire and returns 7.84 ms later, having reflected off the lower end. The stone is heavy enough to prevent the lower end of the wire from moving. What is the mass m of the stone? [The slight variation of tension along the length of wire as a result of the wire's own weight may be ignored.]       1) _______
+
+A) 227 kg      B) 349 kg      C) 35.6 kg      D) 8.90 kg      E) 23.1 kg
+
+Points: 1
+2) You are generating traveling waves on a stretched string by wiggling one end. If you suddenly begin to wiggle more rapidly without appreciably affecting the tension, you will cause the waves to move down the string      2) _______
+
+A) faster than before.
+B) at the same speed as before.
+C) slower than before.
+
+Points: 3
+3) A mass M is attached to an ideal massless spring. When this system is set in motion, it has a period T. What is the period if the mass is doubled to 2M?      3) _______
+
+A) sqrt(2)T      B) 4T      C) 2T      D) T      E) T/2
+
+Points: 1
+4) A restoring force of magnitude F acts on a system with a displacement of magnitude x. In which of the following cases will the system undergo simple harmonic motion?      4) _______
+
+A) F graphic(proportionality.jpg) 1/x      B) F graphic(proportionality.jpg) x      C) F graphic(proportionality.jpg) x2      D) F graphic(proportionality.jpg) sin x       E) F graphic(proportionality.jpg) sqrt(x)
+
+Points: 1
+5) If right ray(B) = -2hat(i) - 6hat(j) + 2hat(k) and right ray(C) = -4hat(i) -2hat(j) - 3hat(k), which of the following numbers is closest to the magnitude of right ray(C) × right ray(B)?      5) _______
+
+A) 21      B) 29      C) 25      D) 33      E) 17
+
+Points: 1
+6) A long thin uniform rod of length 1.50 m is to be suspended from a frictionless pivot located at some point along the rod so that its pendulum motion takes 3.00 s. How far from the center of the rod should the pivot be located?      6) _______
+
+A) 23.4 cm      B) 8.40 cm      C) 7.98 cm      D) 7.52 cm      E) 8.73 cm
+
+Points: 1
+7) A particle moving in the xy-plane has an acceleration given by a=<20t3, 42x>, where x is the x-coordinate of its position. At t=0, the particle is at rest at the origin. Find the particle's velocity as a function of time      7) _______
+
+A) <5t4, 42xt>
+B) <60t2, 42>
+C) <5t4, 7t6>
+D) None of these
+E) <5t4, 21x2>
+
+Points: 1
+8) A proton (a positively charged particle) is moving away from a stationary positive charge. Is the proton gaining or losing potential energy?      8) _______
+
+A) gaining
+B) Neither gaining nor losing, because of conservation of momentum.
+C) Neither gaining nor losing, because of conservation of energy
+D) losing
+
+Points: 1
+9) A uniform solid cylindrical log begins rolling without slipping down a ramp that rises 28.0° above the horizontal. After it has rolled 4.20 m along the ramp, what is the magnitude of the linear acceleration of its center of mass?      9) _______
+
+A) 9.80 m/s2      B) 3.07 m/s2      C) 2.30 m/s2      D) 4.60 m/s2      E) 3.29 m/s2
+
+Points: 1
+10) In the figure, a block of mass M hangs at rest. The rope that is fastened to the wall is horizontal and has a tension off 70 N. The rope that is fastened to the ceiling has a tension of 91 N,and makes an angle θ with the ceiling. What is the angle θ?
+
+graphic(P5.73.bmp)
+      10) ______
+
+A) 70°      B) 50°      C) 38°      D) 40°      E) 45°
+
+Points: 1
+11) During a collision with a wall, the velocity of a 0.200-kg ball changes from 20.0 m/s toward the wall to 12.0 m/s away from the wall. If the time the ball was in contact with the wall was 60.0 ms, what was the magnitude of the average force applied to the ball?      11) ______
+
+A) 107 N      B) 40.0 N      C) 13.3 N      D) 16.7 N      E) 26.7 N
+
+Points: 1
+12) For the (conservative) force F=(yex)i+(ex)j, calculate the work done by this force in moving a particle from (0,0) to (1,6).  All quantities are in SI units. The following integrals are provided for reference but are not necessarily required to solve the  problem:
+graphic(Capture.JPG)      12) ______
+
+A) None of these
+B) 16.3 J
+C) 45  J
+D) 2.71 J 
+E) 120.5 J
+
+Points: 1
+13) Two loudspeakers placed 6.0 m apart are driven in phase by an audio oscillator whose frequency range is 2351 Hz to 3383 Hz. A point P is located 4.2 m from one loudspeaker and 3.6 m from the other. The speed of sound is 344 m/s. The frequency produced by the oscillator, for which constructive interference of sound occurs at point P, is closest to      13) ______
+
+A) 3297 Hz.      B) 2867 Hz.      C) 3010 Hz.      D) 3153 Hz.      E) 2723 Hz.
+
+Points: 1
+14) A meteoroid, heading straight for Earth, has a speed of 14.8 km/s relative to the center of Earth as it crosses our moon's orbit, a distance of 3.84 × 108 m from the earth's center. What is the meteroid's speed as it hits the earth? You can neglect the effects of the moon, Earth's atmosphere, and any motion of the earth. (G = 6.67 × 10-11 N • m2/kg2, Mearth = 5.97 × 1024 kg, Radius of the earth = 6400km)      14) ______
+
+A) 21.5 km/s      B) 87.3 km/s      C) 18.5 km/s      D) 32.4 km/s
+
+Points: 1
+15) Observer A is 3.0 m from a tiny light bulb and observer B is 12.0 m from the same bulb. Assume that the light spreads out uniformly and undergoes no significant reflections or absorption. If observer B sees a light of intensity I, the light intensity that A sees is      15) ______
+
+A) 16I.      B) 36I.      C) 9I.      D) 144I.      E) I.
+
+Points: 1
+16) Find the speed of an ocean wave whose vertical displacement y as a function of time t is given by y(x,t) = 3.7 cos(2.2x - 5.6t), where all quantities are in SI units.      16) ______
+
+A) 4.5 m/s      B) 1.9 m/s      C) 3.5 m/s      D) 2.5 m/s
+
+Points: 1
+17) If a force always acts perpendicular to an object's direction of motion, that force cannot change the object's kinetic energy.      17) ______
+
+A) True      B) False
+
+Points: 1
+18) A uniform sign is supported against a wall at point P as shown in the figure. If the sign is a square 0.50 m on a side and its mass is 10.0 kg, what is the magnitude of the horizontal force that the wall at P experiences? [Ignore the separation between the sign and the wall]
+
+graphic(P8.74_REV.jpg)
+      18) ______
+
+A) 0.00 N      B) 49 N      C) 200 N      D) 25 N
+
+Points: 1
+19) An unusual spring is placed on the x axis with its free right end at x=0. When the free end of the spring is moved to position x (i.e. the spring is stretched by an amount x), the spring exerts a force F given by  F = - i (2x+x2) [Newtons] where i is a unit vector along the positive x-direction. A 3.00-kg object is attached to this spring and released from rest after stretching the spring 3.00 m. If the object slides over a frictionless horizontal surface, how fast is it moving when the spring returns to its equilibrium length?      19) ______
+
+A) 14.2 m/s
+B) This is an impossible situation since the final velocity of the mass would be imaginary (square root of a negative number)
+C) 3.46 m/s
+D) 10.3 m/s
+E) 7.41 m/s
+
+Points: 1
+20) The sound level at 1.0 m from a certain talking person talking is 60 dB. You are surrounded by five such people, all 1.0 m from you and all talking equally loud at the same time. The threshold of hearing is 1.0 × 10-12 W/m2. What sound level are you being exposed to? You can neglect any absorption, reflection, or interference of the sound. The threshold of hearing is 1.0 × 10-12 W/m2.      20) ______
+
+A) 81 dB      B) 67 dB      C) 300 dB      D) 60 dB      E) 74 dB
+
+Points: 1
+21) Tensile stress is      21) ______
+A) the ratio of the change in length to the original length.
+B) the strain per unit length.
+C) the ratio of elastic modulus to strain.
+D) the same as force.
+E) the applied force per cross-sectional area.
+
+Points: 1
+22) A boy on a bicycle approaches a brick wall as he sounds his horn at a frequency 400.00 Hz. The sound he hears reflected back from the wall is at a frequency 408.00 Hz. At what is the speed is the boy riding his bicycle toward the wall? Assume the speed of sound in air is 340 m/s.      22) ______
+
+A) 333 m/s      B) 3.68 m/s      C) 3.37 m/s      D) 6.67 m/s      E) 6.80 m/s
+
+Points: 1
+23) A dumbbell-shaped object is composed by two equal masses, m, connected by a rod of negligible mass and length r. If I1 is the moment of inertia of this object with respect to an axis passing through the center of the rod and perpendicular to it and I2 is the moment of inertia with respect to an axis passing through one of the masses, how are the two moments of inertia related?      23) ______
+
+A) I2 > I1.
+B) I1 = I2.
+C) The answer depends on m
+D) I1 > I2.
+E) The answer depends on both m and r
+
+Points: 1
+24) Two teams of 9 members each engage in a tug-of-war. Each of the first team’s members has an average mass of 64 kg and exerts an average force of 1450 N horizontally. Each of the second team’s members has an average mass of 72 kg and exerts and average force of 1470 N horizontally. Find the tension in the rope (in N).       24) ______
+
+A) 2920      B) 13135      C) 20      D) 26280      E) 12235
+
+Points: 1
+25) A 1.2-kg spring-activated toy bomb slides on a smooth surface along the x-axis with a speed of 0.50 m/s. At the origin 0, the bomb explodes into two fragments. Fragment 1 has a mass of 0.40 kg and a speed of 0.90 m/s along the negative y-axis. In the figure, the angle θ, made by the velocity vector of fragment 2 and the x-axis, is closest to
+
+graphic(P7.29_REV.jpg)      25) ______
+
+A) 31°.      B) 38°.      C) 53°.      D) 59°.      E) 37°.
+
+Points: 1
+26) What version is this test?      26) ______
+A)      B)      C)      D)
+
+
+
+1) C
+Points: 1
+
+2) B
+Points: 1
+
+3) A
+Points: 3
+
+4) B
+Points: 1
+
+5) D
+Points: 1
+
+6) E
+Points: 1
+
+7) C
+Points: 1
+
+8) D
+Points: 1
+
+9) B
+Points: 1
+
+10) D
+Points: 1
+
+11) A
+Points: 1
+
+12) B
+Points: 1
+
+13) B
+Points: 1
+
+14) C
+Points: 1
+
+15) A
+Points: 1
+
+16) D
+Points: 1
+
+17) A
+Points: 1
+
+18) B
+Points: 1
+
+19) C
+Points: 1
+
+20) B
+Points: 1
+
+21) E
+Points: 1
+
+22) C
+Points: 1
+
+23) A
+Points: 1
+
+24) B
+Points: 1
+
+25) A
+Points: 1
+
+26) B
+Points: 1
