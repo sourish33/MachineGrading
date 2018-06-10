@@ -165,7 +165,7 @@ A)      B)      C)      D)
 
 
 1) B
-Points: 3
+Points: 1
 
 2) A
 Points: 1

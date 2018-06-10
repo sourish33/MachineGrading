@@ -201,7 +201,7 @@ Points: 1
 Points: 1
 
 13) A
-Points: 3
+Points: 1
 
 14) C
 Points: 1
