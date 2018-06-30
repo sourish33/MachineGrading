@@ -1,0 +1,21 @@
+OrgDefinedId,Last Name,First Name,Serial Number Text Grade <Text>,Syllabus Quiz Points Grade <Numeric MaxPoints:20 Weight:50 Category:Class Participation CategoryWeight:0.25>,Introduction Points Grade <Numeric MaxPoints:10 Weight:50 Category:Class Participation CategoryWeight:0.25>,Class Participation Subtotal Numerator,Class Participation Subtotal Denominator,Mastering Physics Points Grade <Numeric MaxPoints:100 Weight:14.75>,Midterm1 Points Grade <Numeric MaxPoints:40 Weight:33.333333333 Category:Midterms CategoryWeight:60>,Midterm 2 Points Grade <Numeric MaxPoints:40 Weight:33.333333333 Category:Midterms CategoryWeight:60>,Midterm 3 Points Grade <Numeric MaxPoints:40 Weight:33.333333333 Category:Midterms CategoryWeight:60>,Midterms Subtotal Numerator,Midterms Subtotal Denominator,Test 1 Questions Missed Text Grade <Text>,Test 2 Questions Missed Text Grade <Text>,Test 3 Questions Missed Text Grade <Text>,Final Points Grade <Numeric MaxPoints:72 Weight:25>,Calculated Final Grade Numerator,Calculated Final Grade Denominator,Adjusted Final Grade Numerator,Adjusted Final Grade Denominator,End-of-Line Indicator
+#acquayag,Acquaye,Amber,1001,20,10,0.25,0.25,100.3179959,27,33,33,45,60,"vA: 1, 4, 6, 8, 13","vA: 6, 7, 9","vA: 1, 6, 8",,60.07458944,75,,,#
+#bollinam,Bolling,Atiyaa,1003,20,10,0.25,0.25,17.58179959,15,6,,15.75,60,"vA: 1, 2, 3, 4, 5, 6, 7, 12, 13","vC: 1, 2, 3, 5, 6, 7, 9, 10, 11, 12, 13, 14",,,20.12400407,75,,,#
+#carlsobl,Carlson,Brynn,1002,20,10,0.25,0.25,101.5674847,42,39,42,60.75,60,ALL CORRECT,vB: 1,ALL CORRECT,,76.71726423,75,,,#
+#dibblhs1,Dibble,Hannah,1007,20,10,0.25,0.25,102.6584867,39,21,39,45,60,vA: 1,"vD: 2, 7, 8, 9, 12, 13, 14",vD: 10,,60.62357724,75,,,#
+#gowdaac,Gowda,Ananda,1004,20,10,0.25,0.25,104.0838446,42,24,33,49.5,60,ALL CORRECT,"vD: 2, 3, 4, 7, 11, 14","vA: 1, 6, 12",,65.45982927,75,,,#
+#hanky,Han,Karin,1009,20,10,0.25,0.25,104.1237219,30,36,18,49.5,60,"vB: 5, 8, 10, 14","vC: 2, 5","vA: 1, 2, 5, 6, 8, 11, 12, 13",,65.46726423,75,,,#
+#heb,He,Beijia,1022,20,10,0.25,0.25,25.58691207,21,18,33,29.25,60,"vB: 3, 4, 5, 7, 8, 11, 13","vC: 1, 2, 4, 5, 6, 8, 9, 10","vA: 1, 6, 12",,35.23786992,75,,,#
+#henrynx,Henry,Nicholas,1015,20,10,0.25,0.25,104.0286299,33,39,27,54,60,"vB: 5, 9, 14",vA: 1,"vB: 1, 2, 8, 9, 14",,69.96366666,75,,,#
+#hilltm1,Hill,Teddy,1008,20,10,0.25,0.25,103.8588957,39,42,42,60.75,60,vD: 8,ALL CORRECT,ALL CORRECT,,76.65514635,75,,,#
+#kimdm,Kim,Lucas,1011,20,10,0.25,0.25,104.0685072,39,30,42,51.75,60,,"vB: 1, 11, 13, 14",ALL CORRECT,,67.71726423,75,,,#
+#mathud1,Mathur,Diya,1017,20,10,0.25,0.25,102.5132924,39,39,33,58.5,60,vD: 4,vD: 12,"vC: 5, 7, 9",,74.08952033,75,,,#
+#muezzim,Muezzinoglu,Mine,1018,20,10,0.25,0.25,102.2832311,36,36,36,54,60,"vC: 7, 13","vD: 5, 12","vB: 2, 10",,69.53555691,75,,,#
+#obism,Obi,Simon,1012,20,10,0.25,0.25,93.38957055,21,21,24,31.5,60,"vA: 1, 3, 4, 6, 10, 11, 12","vC: 2, 4, 6, 8, 10, 12, 14","vC: 2, 5, 6, 9, 11, 12",,45.38115854,75,,,#
+#osmana,Osman,Abdirahman,1019,20,10,0.25,0.25,97.2597137,12,24,21,27,60,"vB: 1, 3, 4, 5, 6, 8, 10, 11, 13, 14","vA: 1, 3, 4, 7, 12, 13","vB: 1, 2, 3, 5, 6, 10, 14",,41.35723577,75,,,#
+#osmanmh,Osman,Maria,1020,20,10,0.25,0.25,103.408998,36,12,24,36,60,"vD: 4, 6","vB: 1, 3, 5, 7, 8, 9, 10, 11, 13, 14","vB: 1, 5, 10, 11, 12, 14",,51.79985772,75,,,#
+#prydek,Pryde,Kirsten,1013,20,10,0.25,0.25,100.9488753,18,21,27,29.25,60,"vC: 1, 3, 5, 6, 7, 8, 10, 14","vA: 1, 5, 7, 9, 10, 11, 13","vD: 1, 3, 4, 6, 11",,44.47256911,75,,,#
+#roscac,Rosca,Christina,1006,20,10,0.25,0.25,100.2535787,42,36,30,58.5,60,ALL CORRECT,"vB: 10, 11","vD: 4, 5, 6, 10",,73.55947967,75,,,#
+#sherrohr,Sherrow,Hogan,1014,20,10,0.25,0.25,86.68200409,24,15,24,29.25,60,"vC: 2, 3, 4, 7, 8, 10","vD: 2, 3, 6, 7, 8, 9, 10, 11, 12","vA: 1, 2, 3, 5, 6, 12",,41.86961382,75,,,#
+#simonej,Simonetti,Justice,1005,20,10,0.25,0.25,102.8282209,33,30,30,47.25,60,"vC: 3, 4, 8","vA: 1, 4, 6, 10","vA: 3, 6, 8, 12",,62.91339025,75,,,#
+#sullivhr,Sullivan,Hannah,1021,20,10,0.25,0.25,104.1237219,42,36,39,58.5,60,ALL CORRECT,"vC: 6, 13",vC: 11,,74.46726423,75,,,#
