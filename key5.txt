@@ -1,0 +1,146 @@
+﻿
+MULTIPLE CHOICE.  Choose the one alternative that best completes the statement or answers the question.
+1) A uniform solid cylindrical log begins rolling without slipping down a ramp that rises 28.0° above the horizontal. After it has rolled 4.20 m along the ramp, what is the magnitude of the linear acceleration of its center of mass?      1) _______
+
+A) 4.60 m/s2      B) 9.80 m/s2      C) 2.30 m/s2      D) 3.29 m/s2      E) 3.07 m/s2
+
+2) An 8.0-g bullet is shot into a 4.0-kg block, at rest on a frictionless horizontal surface (see the figure). The bullet remains lodged in the block. The block moves into an ideal massless spring and compresses it by 8.7 cm. The spring constant of the spring is 2400 N/m. The initial velocity of the bullet is closest to
+graphic(P7.17.bmp)
+      2) _______
+
+A) 900 m/s.      B) 1300 m/s.      C) 1200 m/s.      D) 1100 m/s.      E) 1000 m/s.
+
+3) A light triangular plate OAB is in a horizontal plane. Three forces, F with subscript((1)) = 8.0 N, F with subscript((2)) = 8.0 N, and F with subscript((3)) = 8.0 N, act on the plate, which is pivoted about a vertical axes through point O. In the figure, right ray(F)2 is perpendicular to OB. Consider the counterclockwise sense as positive. The sum of the torques about the vertical axis through point O, acting on the plate due to forces F1, F2, and F3, is closest to
+
+graphic(P8.24_REV.jpg)      3) _______
+
+A) -2.2 N • m.      B) 2.2 N • m.      C) 4.0 N • m.      D) -4.0 N • m.      E) zero
+
+4) In the figure, point P is at rest when it is on the x-axis. The time t, when P returns to the original position on the x-axis, is closest to
+
+graphic(P8.10_REV.jpg)
+      4) _______
+
+A) 35 s.      B) 50 s.      C) 268 s.      D) 25 s.      E) 13 s.
+
+5) For the apparatus shown in the figure, there is no slipping between the very light cord and the surface of the pulley. The blocks have mass of 3.0 kg and 5.7 kg, and the pulley has a radius of 0.12 m and a mass of 10.3 kg. At the instant the 5.7 kg mass has fallen 1.5 m starting from rest, find the speed of each block. (Assume the pulley is in the shape of a uniform solid disk and has no friction in its axle.)
+
+graphic(P8.38.bmp)      5) _______
+
+A) 2.4 m/s
+B) 5.4 m/s
+C) 4.6 m/s
+D) None of these
+E) 3.0 m/s
+
+6) The cylinder shown is rolling without slipping as a force of 50 N is applied to the end of the rope. Calculate the magnitude of the acceleration of the center of mass  of the cylinder . Assume that the cylinder  has  a mass of 5.00 kg and a non-uniform mass distribution such that its rotational inertia (about an axis through its center of mass and perpendicular to its flat surfaces) is (1/4)MR2, where M and R are its mass and radius respectively. 
+
+graphic(cylinder_rolling.jpg)      6) _______
+
+A) 10.0  m/s2 
+B) 13.3 m/s2
+C) 30.0  m/s2 
+D) 16.0 m/s2
+E) None of these
+
+7) During a collision with a wall, the velocity of a 0.200-kg ball changes from 20.0 m/s toward the wall to 12.0 m/s away from the wall. If the time the ball was in contact with the wall was 60.0 ms, what was the magnitude of the average force applied to the ball?      7) _______
+
+A) 40.0 N      B) 107 N      C) 13.3 N      D) 26.7 N      E) 16.7 N
+
+8) A uniform solid sphere has a moment of inertia I about an axis tangent to its surface. What is the moment of inertia of this sphere about an axis through its center?      8) _______
+
+A) 7/5 I      B) 2/7 I      C) 1/7 I      D) 2/5 I      E) 3/5 I
+
+9) As you are leaving a building, the door opens outward. If the hinges on the door are on your right, what is the direction of the angular velocity of the door as you open it?      9) _______
+
+A) to your right
+B) to your left
+C) down
+D) forwards
+E) up
+
+10) You are standing on a skateboard, initially at rest. A friend throws a very heavy ball towards you. You can either catch the object or deflect the object back towards your friend (such that it moves away from you with the same speed as it was originally thrown). What should you do in order to MINIMIZE your speed on the skateboard?      10) ______
+
+A) Deflect the ball.
+B) Catch the ball.
+C) Your final speed on the skateboard will be the same regardless whether you catch the ball or deflect the ball.
+
+11) A uniform disk, a uniform hoop, and a uniform solid sphere are released at the same time at the top of an inclined ramp. They all have the same mass and radius and roll without slipping. In what order do they reach the bottom of the ramp?      11) ______
+
+A) sphere, hoop, disk
+B) hoop, disk, sphere
+C) sphere, disk, hoop
+D) hoop, sphere, disk
+E) disk, hoop, sphere
+
+12) A piece of thin uniform wire of mass m and length b is bent into an equilateral triangle. Find the moment of inertia of the wire triangle about an axis perpendicular to the plane of the triangle and passing through one of its vertices.      12) ______
+
+A) (3/2)mb2      B) (1/3)mb2      C) (1/2)mb2      D) (1/18)mb2      E) (7/12)mb2
+
+13) In the figure, determine the character of the collision. The masses of the blocks, and the velocities before and after are given, and no other unbalanced forces act on these blocks. The collision is
+
+graphic(P7.19.bmp)
+      13) ______
+
+A) partially inelastic.
+B) perfectly elastic.
+C) completely inelastic.
+D) characterized by an increase in kinetic energy.
+E) not possible because momentum is not conserved.
+
+14) In an INELASTIC collision between two objects      14) ______
+A) the momentum of each object is conserved.
+B) the kinetic energy of each object is conserved.
+C) the kinetic energy of the system is conserved, but the momentum of the system is not conserved.
+D) both the momentum and the kinetic energy of the system are conserved.
+E) the momentum of the system is conserved but the kinetic energy of the system is not conserved.
+
+15) What version is this test? (Please answer A)      15) ______
+A)      B)      C)      D)
+
+
+
+1) E
+Points: 5
+
+2) D
+Points: 1
+
+3) B
+Points: 1
+
+4) A
+Points: 1
+
+5) A
+Points: 1
+
+6) D
+Points: 1
+
+7) B
+Points: 1
+
+8) B
+Points: 1
+
+9) C
+Points: 1
+
+10) B
+Points: 1
+
+11) C
+Points: 1
+
+12) D
+Points: 1
+
+13) E
+Points: 1
+
+14) E
+Points: 1
+
+15) A
+Points: 1

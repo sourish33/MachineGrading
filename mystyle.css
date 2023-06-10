@@ -1,0 +1,94 @@
+
+h1 {
+    color: navy;
+}
+
+h2 {
+    color: navy;
+}
+
+.customers {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 50%;
+}
+
+.customers td, .customers th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+.customers tr:nth-child(even){background-color: #f2f2f2;}
+
+.customers tr:hover {background-color: #ddd;}
+
+.customers th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #0099ff;
+    color: white;
+}
+
+
+
+.howmany {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 80%;
+    table-layout: auto;
+}
+
+.howmany td, .howmany th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+.howmany tr:nth-child(even){background-color: #f2f2f2;}
+
+.howmany tr:hover {background-color: #ddd;}
+
+.howmany th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: 9933ff;
+    color: white;
+}
+
+.correct {
+    background-color: #00FF00;
+}
+
+.answered_by{
+  font-style: italic;
+  color: blue;
+  font-size: large;
+  /*margin-top:20px; */
+  padding-left:10px; 
+  /*display:block;*/
+  float left: 
+}
+
+.sumdat {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    
+    width: 20%;
+}
+
+.sumdat td, .sumdat th {
+    border: 1px solid black;
+    padding: 8px;
+}
+
+.sumdat tr:nth-child(even){background-color: #f3f3f3;}
+
+.sumdat tr:hover {background-color: #ddd;}
+
+.sumdat th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: ff66ff;
+    color: white;
+}
